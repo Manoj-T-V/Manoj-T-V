@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Manoj and I'm a Web Developer.</p>
+<p align="left">My name is Manoj and I'm a Software Engineer.</p>
 
 ###
 
